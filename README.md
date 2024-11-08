@@ -25,11 +25,11 @@ We're in the process of making a robust and interactive guide to Moonshine, but 
 ### Uploading content
 To upload your content, you can drag your files anywhere into Moonshine.
 
-<iframe width="1440" height="900" src="https://moonshine-public-assets.s3.us-east-1.amazonaws.com/moonshine-beta-guide-vids/upload_1.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe width="800" height="500" src="https://moonshine-public-assets.s3.us-east-1.amazonaws.com/moonshine-beta-guide-vids/upload_1.mp4" frameborder="0" allowfullscreen></iframe>
 
 To click to upload files, click the Files toggle at the bottom right of the screen, and then the uploads button at the top of the menu. You can now click here to upload your files. In this menu, you can also upload from your phone. Click the upload from your phone pill button and scan the QR code with your phone. You can start uploading files from your phone. Make sure that your phone stays on the entire time during the upload process.
 
-<iframe width="1440" height="900" src="https://moonshine-public-assets.s3.us-east-1.amazonaws.com/moonshine-beta-guide-vids/upload_2.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe width="800" height="500" src="https://moonshine-public-assets.s3.us-east-1.amazonaws.com/moonshine-beta-guide-vids/upload_2.mp4" frameborder="0" allowfullscreen></iframe>
 
 ### Using create
 By default, Moonshine will open into create mode. Create allows you to describe anything in the search bar and Moonshine will build it for you (think chatGPT for your videos). Create has an understanding of all of your uploads, and the items currently on your timeline.
@@ -39,7 +39,7 @@ Possible things to type in can be:
 - "Make me a 5 min video of us making pasta and then eating it"
 - "Add eating my food to this video"
 
-<iframe width="1440" height="900" src="https://moonshine-public-assets.s3.us-east-1.amazonaws.com/moonshine-beta-guide-vids/create.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe width="800" height="500" src="https://moonshine-public-assets.s3.us-east-1.amazonaws.com/moonshine-beta-guide-vids/create.mp4" frameborder="0" allowfullscreen></iframe>
 
 ### Quick adds and searching
 When in the search bar at the bottom of the timeline you can use the up and down arrow keys to toggle between modes or the dropdown menu on the far left. Let's switch into search.
@@ -54,13 +54,13 @@ Possible searches can be:
 
 Below the search bar are quick adds which are a few recommended searches to build your video. Just click on these to add them directly to your timeline.
 
-<iframe width="1440" height="900" src="https://moonshine-public-assets.s3.us-east-1.amazonaws.com/moonshine-beta-guide-vids/search_and_quick_add.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe width="800" height="500" src="https://moonshine-public-assets.s3.us-east-1.amazonaws.com/moonshine-beta-guide-vids/search_and_quick_add.mp4" frameborder="0" allowfullscreen></iframe>
 
 
 ### Exporting
 To export your video click the export button at the bottom middle of the editor. This will open up the export settings menu. You can set the file format to export to and then click the start export button to start exporting your video.
 
-<iframe width="1440" height="900" src="https://moonshine-public-assets.s3.us-east-1.amazonaws.com/moonshine-beta-guide-vids/export.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe width="800" height="500" src="https://moonshine-public-assets.s3.us-east-1.amazonaws.com/moonshine-beta-guide-vids/export.mp4" frameborder="0" allowfullscreen></iframe>
 
 The right hand side of the export menu shows you your previous exports of the project.
 
@@ -76,22 +76,22 @@ To add the media to your timeline. Double click the media in the file browser, h
 
 Media will add at the playhead (the white line across the timeline)
 
-<iframe width="1440" height="900" src="https://moonshine-public-assets.s3.us-east-1.amazonaws.com/moonshine-beta-guide-vids/add_media.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe width="800" height="500" src="https://moonshine-public-assets.s3.us-east-1.amazonaws.com/moonshine-beta-guide-vids/add_media.mp4" frameborder="0" allowfullscreen></iframe>
 
 ### Adding text
 To add text to the timeline, click the text icon at the bottom center of the editor (left of the export button) or click the t key on your keyboard.
 
-<iframe width="1440" height="900" src="https://moonshine-public-assets.s3.us-east-1.amazonaws.com/moonshine-beta-guide-vids/add_text.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe width="800" height="500" src="https://moonshine-public-assets.s3.us-east-1.amazonaws.com/moonshine-beta-guide-vids/add_text.mp4" frameborder="0" allowfullscreen></iframe>
 
 ### Modifying timeline element properties
 To modify any timeline element's properties, click on it and its properties will appear the bottom of the timeline.
 
-<iframe width="1440" height="900" src="https://moonshine-public-assets.s3.us-east-1.amazonaws.com/moonshine-beta-guide-vids/track_properties.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe width="800" height="500" src="https://moonshine-public-assets.s3.us-east-1.amazonaws.com/moonshine-beta-guide-vids/track_properties.mp4" frameborder="0" allowfullscreen></iframe>
 
 ### Tracking
 Tracking allows you to pin any image onto a video. In the scene, simple click the pin button at the top of the top of the image on top of a video and give it a few mins to process.
 
-<iframe width="1440" height="900" src="https://moonshine-public-assets.s3.us-east-1.amazonaws.com/moonshine-beta-guide-vids/track.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe width="800" height="500" src="https://moonshine-public-assets.s3.us-east-1.amazonaws.com/moonshine-beta-guide-vids/track.mp4" frameborder="0" allowfullscreen></iframe>
 
 ### Smart Snap
 If you want to sync your video to a beat you can enable smart snapping. Select an audio track and open its properties where you can click enable in the smart snap dropdown which will show some more settings.
@@ -100,4 +100,4 @@ The settings control how fast or slow you want your video to feel (how far apart
 
 You can now snap other elements to the beat of the song into the timeline.
 
-<iframe width="1440" height="900" src="https://moonshine-public-assets.s3.us-east-1.amazonaws.com/moonshine-beta-guide-vids/smart_snap.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe width="800" height="500" src="https://moonshine-public-assets.s3.us-east-1.amazonaws.com/moonshine-beta-guide-vids/smart_snap.mp4" frameborder="0" allowfullscreen></iframe>
