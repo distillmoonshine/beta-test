@@ -26,6 +26,8 @@ We're in the process of making a robust and interactive guide to Moonshine, but 
 To upload your content, you can drag your files anywhere into Moonshine.
 
 [upload_1](https://moonshine-public-assets.s3.us-east-1.amazonaws.com/moonshine-beta-guide-vids/upload_1.mp4)
+<iframe width="420" height="315" src="https://moonshine-public-assets.s3.us-east-1.amazonaws.com/moonshine-beta-guide-vids/upload_1.mp4" frameborder="0" allowfullscreen></iframe>
+
 
 To click to upload files, click the Files toggle at the bottom right of the screen, and then the uploads button at the top of the menu. You can now click here to upload your files. In this menu, you can also upload from your phone. Click the upload from your phone pill button and scan the QR code with your phone. You can start uploading files from your phone. Make sure that your phone stays on the entire time during the upload process.
 
